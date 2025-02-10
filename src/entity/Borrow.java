@@ -1,4 +1,4 @@
-package Borrow_package;
+package entity;
 
 import java.time.LocalDate;
 

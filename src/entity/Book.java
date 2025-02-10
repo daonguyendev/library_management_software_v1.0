@@ -1,4 +1,4 @@
-package Book_package;
+package entity;
 
 public class Book {
     private String ISBN;

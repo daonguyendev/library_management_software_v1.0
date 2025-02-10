@@ -1,4 +1,7 @@
-package Student_package;
+package menu;
+
+import entity.Student;
+import management.StudentManagement;
 
 import java.util.InputMismatchException;
 import java.util.List;

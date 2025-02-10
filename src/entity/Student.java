@@ -1,4 +1,4 @@
-package Student_package;
+package entity;
 
 public class Student {
     private int id;

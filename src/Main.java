@@ -1,6 +1,6 @@
-import Book_package.BookManagementMenu;
-import Borrow_package.BorrowManagementMenu;
-import Student_package.StudentManagementMenu;
+import menu.BookManagementMenu;
+import menu.BorrowManagementMenu;
+import menu.StudentManagementMenu;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

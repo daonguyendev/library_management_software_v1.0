@@ -1,9 +1,8 @@
-package Borrow_package;
+package management;
 
-import Book_package.Book;
-import Book_package.BookManagement;
-import Student_package.Student;
-import Student_package.StudentManagement;
+import entity.Book;
+import entity.Borrow;
+import entity.Student;
 
 import java.io.*;
 import java.time.LocalDate;

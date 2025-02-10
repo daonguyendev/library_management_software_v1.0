@@ -1,4 +1,6 @@
-package Student_package;
+package management;
+
+import entity.Student;
 
 import java.io.*;
 import java.util.ArrayList;
